@@ -1,0 +1,24 @@
+# Build output directory
+_build/
+
+# CMakelists.txt build directory
+build/
+
+# Dune lock files
+dune.lock/
+
+# Development tools lock files
+dev-tools.locks/
+
+# VSCode editor configuration directory
+.vscode/
+
+# Python virtual environment directory
+.venv/
+
+# Environment variable files
+.env
+
+# Development packages
+dev.opam
+episodes/
